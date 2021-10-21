@@ -1,6 +1,6 @@
 # textasdata2021
-Teaching materials for a 2021 English literature course I taught introducing basic text analysis tools used for humanities research, including Voyant, 
-topic modeling, text classification, sentiment analysis, and word vector models. 
+Teaching materials for a 2021 English literature course I taught introducing basic text analysis methods, including
+topic modeling, text classification, and word vector models. 
 
 # textClassification.ipynb
 A Google colab notebook that lets the students upload two classes of text, train a classifier to distinguish them with TF-IDF and logistic regression,
