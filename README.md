@@ -11,4 +11,4 @@ then view the top 100 words associated with each class. We used short stories fr
 that can be separated categorically.
 
 # topicModeling.ipynb
-This notebook introduces to students to topic modeling using scikit-learn, using an Associated Press corpus as an introduction.
+This notebook introduces to students to topic modeling using scikit-learn, using an Associated Press corpus as a demonstration.
